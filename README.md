@@ -1,0 +1,2 @@
+# testrepo
+The first assignment of my CPT_S 322 class is to create a test repository. 
